@@ -1,0 +1,4 @@
+# squad-review daily learning and corpus refresh cron schedule
+# Runs daily at 02:00 AM
+
+0 2 * * * /bin/bash $HOME/.claude/skills/squad-review/scripts/daily_learn.sh >> /tmp/squad-review-daily.log 2>&1
