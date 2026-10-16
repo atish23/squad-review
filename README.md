@@ -4,6 +4,8 @@ A multi-lane AI code review skill for Claude Code and Antigravity. Five speciali
 
 > "AI code review should not check syntax. It should bottle your senior engineers' best instincts, verify them against the actual code, and run them on every commit."
 
+![squad-review Neural Pipeline](assets/squad_review_explainer.gif)
+
 ---
 
 ## What it does
