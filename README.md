@@ -1,5 +1,7 @@
 # squad-review
 
+https://clearyourdoubt.in/i-built-an-ai-code-review-skill-that-thinks-like-a-staff-engineer-here-is-every-technical-detail
+
 A multi-lane AI code review skill for Claude Code and Antigravity. Five specialized sub-agents run in parallel on every pull request. An adversarial verifier kills false positives before you see them. Comments come out in your senior engineers' voice, not ChatGPT's.
 
 > "AI code review should not check syntax. It should bottle your senior engineers' best instincts, verify them against the actual code, and run them on every commit."
