@@ -1,0 +1,23 @@
+[
+  {
+    "path": "src/main/resources/application.yml",
+    "line": 12,
+    "author": "Staff Engineer",
+    "rule_id": "CFG-001",
+    "body": "move endpoint URL to application configuration file."
+  },
+  {
+    "path": "src/main/java/com/example/payments/PaymentService.java",
+    "line": 42,
+    "author": "Staff Engineer",
+    "rule_id": "ERR-003",
+    "body": "check isPresent() before calling .get()."
+  },
+  {
+    "path": "src/main/java/com/example/controllers/UserController.java",
+    "line": 88,
+    "author": "Staff Engineer",
+    "rule_id": "SEC-002",
+    "body": "endpoint lacks authorization guard. Add @HasPermission."
+  }
+]

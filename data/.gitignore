@@ -1,0 +1,3 @@
+# Ignore cached PR review results
+reviewed/*
+!reviewed/.gitkeep
