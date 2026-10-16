@@ -261,7 +261,7 @@ When you reject, reword, or accept a finding, Claude appends to `data/learnings.
 ```json
 {
   "date": "2026-10-16",
-  "repo": "payment-service",
+  "repo": "rails-service",
   "pr": "312",
   "rule": "ERR-003",
   "kind": "rejected",
